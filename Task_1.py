@@ -113,3 +113,4 @@ merged_list.head = llist1.sorted_merge(llist1.head, llist2.head)
 
 print("Об'єднаний відсортований список:")
 merged_list.print_list()
+
